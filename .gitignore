@@ -1,0 +1,6 @@
+images/*.png
+images/*.gif
+_GOOD_
+node_modules
+timestamp.txt
+package-lock.json
